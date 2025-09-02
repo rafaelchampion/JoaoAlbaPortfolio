@@ -220,6 +220,15 @@ h3 {
     z-index: 1000;
 }
 
+.leading-relaxed {
+    line-height: 26px;
+}
+
+.leading-relaxed ul {
+    list-style: inside;
+    margin-bottom: 16px;
+}
+
 .bg-maroon {
     background-color: #d0b8a0;
 }
